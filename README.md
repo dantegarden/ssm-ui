@@ -1,9 +1,6 @@
-## Vue2-Admin 简介
+## ssm-ui 简介
 
-`Vue2-admin` 是基于 [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) 一个后台包含登录、权限管理的精简版本，可以在基础上进行业务开发
-
-## 在线访问
-* [Vue2-Admin 点击访问](http://47.106.144.24/mall/index.html)
+`ssm-ui` 是基于 [Vue2-admin](https://github.com/liuweijw/Vue2-Admin) 的一个后台包含登录、权限管理的精简版本，可以在基础上进行业务开发
 
 ## 前序准备
 
@@ -29,7 +26,7 @@ npm install --registry=https://registry.npm.taobao.org
 # 启动服务
 npm run dev
 ```
-浏览器访问 http://localhost:9527
+浏览器访问 http://localhost:7001
 
 ## 发布
 ```bash
@@ -54,18 +51,3 @@ npm run lint
 # auto fix
 npm run lint -- --fix
 ```
-## 效果图
-![image](src/assets/temp/1.png)
-![image](src/assets/temp/2.png)
-![image](src/assets/temp/3.png)
-![image](src/assets/temp/4.png)
-![image](src/assets/temp/7.png)
-![image](src/assets/temp/5.png)
-![image](src/assets/temp/6.png)
-
-## 感谢
-
-[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
-
-[Vue2-All](https://github.com/liuweijw/Vue2-All)
-# ssm-ui
